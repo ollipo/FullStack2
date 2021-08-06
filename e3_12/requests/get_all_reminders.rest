@@ -1,0 +1,1 @@
+GET https://evening-crag-39386.herokuapp.com/api/reminders

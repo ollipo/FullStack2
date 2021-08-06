@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/reminders
+content-type: application/json
+
+{
+    "name": "Uutta reminderiä lisäillään..",
+    "timestamp": "2021-11-11T08:00:00.141Z",
+    "id": 10
+}
